@@ -16,3 +16,7 @@ footer {
 .custom-ul{
     margin-right: 80px;
 }
+
+.thick-border {
+    border-width:3px !important;
+}
